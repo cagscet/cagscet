@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağlar ÇETİN</h1>
-<h3 align="center">junior software develepor</h3>
+<h3 align="center">Back-End software develepor</h3>
 
 - 🌱 I’m currently learning **Python/SQL/C#**
 
