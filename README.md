@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Çağlar ÇETİN</h1>
-<h3 align="center">Back-End software develepor</h3>
 
 - 📫 How to reach me **ccetin588@gmail.com**
 
