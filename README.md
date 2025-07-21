@@ -2,14 +2,9 @@
 
 - 📫 How to reach me **ccetin588@gmail.com**
 - My medium account https://caglarcetin.medium.com
-- My Linekdln account www.linkedin.com/in/caglarcetin
-
+- My LinekdIn account www.linkedin.com/in/caglarcetin
 - ⚡ Fun fact **I have fun writing code**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caglarcetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caglarcetin" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
