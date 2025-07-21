@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Çağlar ÇETİN</h1>
 
 - 📫 How to reach me **ccetin588@gmail.com**
+- My medium account https://caglarcetin.medium.com
+- My Linekdln account www.linkedin.com/in/caglarcetin
 
 - ⚡ Fun fact **I have fun writing code**
 
